@@ -1,6 +1,7 @@
-### Hi there, I'm Rigina 👋
+## Hi there, I'm Rigina 👋
 
-## I'm Frontend Developer. I develop websites, which is a perfect combination of my design hobby and my programming skills.
+### I'm Frontend Developer. 
+I develop websites, which is a perfect combination of my design hobby and my programming skills.
 
 - 🌱 I like to write code
 - 🔭 I’m ready for new opportunities
