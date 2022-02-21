@@ -6,10 +6,8 @@ I develop websites, which is a perfect combination of my design hobby and my pro
 - 🌱 I like to write code
 - 🔭 I’m ready for new opportunities
 - 💻 I’m currently learning Node.js, Express.js and MongoDB
-- 📫 How to reach me: [linkedin]: https://www.linkedin.com/in/rigina-r-701718183/
-
-<!-- [<img align="left" alt="Riginana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-
+- 📫 How to reach me: [<img align="left" alt="Riginana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/rigina-r-701718183/
 
 
 <!--
